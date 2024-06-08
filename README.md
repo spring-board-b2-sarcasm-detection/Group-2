@@ -8,7 +8,7 @@ Model Training
 Results
 
 I. Introduction
-Sarcasm detection is a challenging task in natural language processing (NLP), especially when dealing with user-generated content like reviews. This project aims to detect sarcasm in airline reviews using various machine learning and NLP techniques.
+Sarcasm detection is a challenging task in natural language processing (NLP), especially when dealing with user-generated content like reviews. This project aims to detect sarcasm in airline reviews using various deep learning and NLP techniques.
 
 II. Dataset
 The dataset was taken from Data.world. Below is the link for the dataset.
