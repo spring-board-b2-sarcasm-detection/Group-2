@@ -1,29 +1,47 @@
-Sarcasm Detection on Airline Reviews
+# Sarcasm Detection on Airline Reviews
 
-Table of Contents:
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Dataset](#dataset)
+- [Installation](#installation)
+- [Model Training](#model-training)
+- [Results](#results)
+- [Acknowledgements](#acknowledgements)
 
- - Introduction
- - Dataset 
- - Preprocessing
- - Model Training 
- - Results
+## Introduction
+This project focuses on detecting sarcasm in airline reviews. Sarcasm detection is an essential task in natural language processing (NLP) as it helps in understanding the sentiment of the text more accurately. Airline reviews often contain sarcastic remarks that can mislead sentiment analysis models if not properly identified.
 
+## Features
+- **Data Preprocessing**: Techniques for cleaning and preparing textual data.
+- **Feature Extraction**: Methods to extract meaningful features from text.
+- **Model Training**: Implementation of various machine learning models for sarcasm detection.
+- **Evaluation Metrics**: Tools to evaluate the performance of the models.
+- **Visualization**: Visual representation of data and results.
 
-I. Introduction
-Sarcasm detection is a challenging task in natural language processing (NLP), especially when dealing with user-generated content like reviews. This project aims to detect sarcasm in airline reviews using various deep learning and NLP techniques.
+## Dataset
+The dataset used for this project consists of airline reviews collected from Data.World. Each review is labeled as either sarcastic or non-sarcastic. The dataset can be found [here]([link-to-dataset](https://data.world/khushipitroda/skyratings-unleashing-23k-airline-reviews)).
 
-II. Dataset
-The dataset was taken from Data.world. Below is the link for the dataset.
-https://data.world/khushipitroda/skyratings-unleashing-23k-airline-reviews
+## Installation
+To run this project, you need to have Python installed on your system. Follow the steps below to set up the environment:
 
-1. The dataset consists of airline reviews.
-2. It is labeled as sarcastic or non-sarcastic with the help of pre-trained model.
-3. It includes the following features:
-4. review: The text of the review.
-5. sarcasm_label: Binary label indicating whether the review is sarcastic (1) or not (0).
-6. Additional features related to airline information.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/sarcasm-detection-airline-reviews.git
+    cd sarcasm-detection-airline-reviews
+    ```
 
-III. PREPROCESSING
-Data cleaning Data prepocessing for sarcasm detection.
+## Model Training
+The project supports several machine learning models, including:
+- Logistic Regression
+- Gradient Boosting
+- Support Vector Machine (SVM)
+- Random Forest
+- GaussianNB
 
-IV. Training and Testing the dataset using Machine Learning models.
+## Results
+The results of the trained models, including accuracy, precision, recall, and F1-score.
+
+##Acknowledgements
+Kaggle for providing the dataset.
+NLTK, scikit-learn, and TensorFlow for their amazing tools and libraries.
