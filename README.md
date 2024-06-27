@@ -2,11 +2,11 @@ Sarcasm Detection on Airline Reviews
 
 Table of Contents:
 
-Introduction
-Dataset
-Preprocessing
-Model Training 
-Results
+I. Introduction
+II. Dataset
+III. Preprocessing
+IV. Model Training 
+V. Results
 
 I. Introduction
 Sarcasm detection is a challenging task in natural language processing (NLP), especially when dealing with user-generated content like reviews. This project aims to detect sarcasm in airline reviews using various deep learning and NLP techniques.
