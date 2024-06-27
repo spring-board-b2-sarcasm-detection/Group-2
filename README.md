@@ -20,7 +20,7 @@ This project focuses on detecting sarcasm in airline reviews. Sarcasm detection 
 - **Visualization**: Visual representation of data and results.
 
 ## Dataset
-The dataset used for this project consists of airline reviews collected from Data.World. Each review is labeled as either sarcastic or non-sarcastic. The dataset can be found [here]([link-to-dataset](https://data.world/khushipitroda/skyratings-unleashing-23k-airline-reviews)).
+The dataset used for this project consists of airline reviews collected from Data.World. Each review is labeled as either sarcastic or non-sarcastic. The dataset can be found [(https://data.world/khushipitroda/skyratings-unleashing-23k-airline-reviews]
 
 ## Installation
 To run this project, you need to have Python installed on your system. Follow the steps below to set up the environment:
