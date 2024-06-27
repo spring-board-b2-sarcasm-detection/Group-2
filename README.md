@@ -12,6 +12,12 @@
 ## Introduction
 This project focuses on detecting sarcasm in airline reviews. Sarcasm detection is an essential task in natural language processing (NLP) as it helps in understanding the sentiment of the text more accurately. Airline reviews often contain sarcastic remarks that can mislead sentiment analysis models if not properly identified.
 
+## Scope of the Solution
+1. Accurately detects sarcasm, improving sentiment analysis in airline reviews.
+2. Enables real-time sarcasm detection for timely customer feedback management.
+3. Scalable framework adaptable to various industries needing sarcasm detection.
+
+
 ## Features
 - **Data Preprocessing**: Techniques for cleaning and preparing textual data.
 - **Feature Extraction**: Methods to extract meaningful features from text.
@@ -20,7 +26,7 @@ This project focuses on detecting sarcasm in airline reviews. Sarcasm detection 
 - **Visualization**: Visual representation of data and results.
 
 ## Dataset
-The dataset used for this project consists of airline reviews collected from Data.World. Each review is labeled as either sarcastic or non-sarcastic. The dataset can be found [(https://data.world/khushipitroda/skyratings-unleashing-23k-airline-reviews]
+The dataset used for this project consists of airline reviews collected from Data.World. Each review is labeled as either sarcastic or non-sarcastic. The dataset can be found [https://data.world/khushipitroda/skyratings-unleashing-23k-airline-reviews]
 
 ## Installation
 To run this project, you need to have Python installed on your system. Follow the steps below to set up the environment:
