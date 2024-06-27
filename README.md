@@ -22,6 +22,6 @@ https://data.world/khushipitroda/skyratings-unleashing-23k-airline-reviews
 6. Additional features related to airline information.
 
 III. PREPROCESSING
-The preprocessing steps involved in this project include:
-1. Data cleaning
-2. Data prepocessing for sarcasm detection
+Data cleaning Data prepocessing for sarcasm detection.
+
+IV. Training and Testing the dataset using Machine Learning models.
