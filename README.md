@@ -1,10 +1,15 @@
 Sarcasm Detection on Airline Reviews
 
 Table of Contents:
+
 Introduction
+
 Dataset
+
 Preprocessing
+
 Model Training 
+
 Results
 
 I. Introduction
