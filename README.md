@@ -55,6 +55,6 @@ The project supports several machine learning models, including:
 The evaluation metrics used includes accuracy, precision, recall, and F1-score.
 The best model among all is the LSTM model with 90% accurate predictions.
 
-##Acknowledgements
+## Acknowledgements
 Kaggle for providing the dataset.
 NLTK, scikit-learn, and TensorFlow for their amazing tools and libraries.
