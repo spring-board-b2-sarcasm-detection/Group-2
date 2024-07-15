@@ -44,9 +44,16 @@ The project supports several machine learning models, including:
 - Support Vector Machine (SVM)
 - Random Forest
 - GaussianNB
+- Simple Neural Network
+- LSTM
+- BiLSTM
+- CNN
+- RNN
+- CNN-LSTM
 
 ## Results
-The results of the trained models, including accuracy, precision, recall, and F1-score.
+The evaluation metrics used includes accuracy, precision, recall, and F1-score.
+The best model among all is the LSTM model with 90% accurate predictions.
 
 ##Acknowledgements
 Kaggle for providing the dataset.
